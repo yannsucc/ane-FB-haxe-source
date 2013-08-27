@@ -21,7 +21,6 @@
   <versionNumber>1</versionNumber>
   <platforms>
 
-  <!---
     <platform name="iPhone-ARM">
         <applicationDeployment>
             <nativeLibrary>libAirFacebook.a</nativeLibrary>
@@ -38,7 +37,6 @@
         </applicationDeployment>
     </platform>
 
-	-->
     <platform name="Android-ARM"> 
         <applicationDeployment> 
             <nativeLibrary>libAirFacebook.jar</nativeLibrary> 

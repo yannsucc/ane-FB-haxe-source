@@ -4,8 +4,8 @@
     <!-- Config -->
     <property file="build.config"/>
 
-    <!-- All -->
-    <target name="all" depends="android,ios,ios-simulator,swc-mobile,swc-default,package" description="Full build of extension"/>
+    <!-- All --> <!-- a rajouter pour IOS : ,ios,ios-simulator ,package-->
+    <target name="all" depends="android ,swc-mobile,swc-default" description="Full build of extension"/>
 
     <!-- iOS -->
     <target name="ios" description="Build iOS Library">

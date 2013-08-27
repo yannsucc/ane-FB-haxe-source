@@ -16,7 +16,7 @@
 //  
 //////////////////////////////////////////////////////////////////////////////////////
 
-package com.freshplanet.ane.AirFacebook
+package com.freshplanet.ane.airFacebook
 {
 	import flash.desktop.NativeApplication;
 	import flash.events.EventDispatcher;

@@ -1,0 +1,2 @@
+C:\Users\Jennifer\Desktop\ANE_Android_Test\ANE-Facebook-master\ANE-Facebook-master\build>adt -package -target ane FacebookTest.ane extension.xml -swc
+AirFacebook.swc -platform Android-ARM -C ../android
