@@ -1,0 +1,15 @@
+aller dans le dossier "build"
+lancez la commande "ant" en fenétre de commande dans ce dossier.
+vous pouvez utiliser ant -verbose pour plus de détails
+
+les fichier/dossier de sortie seront dans le dossier"Temp"
+
+les fichiers à modifier pour la configuration de compilation se trouve dans chaque dossier de platforme.
+(iphone/android/default etc...)
+Verifiez les fichier build.xml, build.config, platform.xml & extension.xml dans le dossier build
+
+le fichier buildAnePackage.txt contient une ligne de commande qui permet de générer le fichier FacebookTest.ane (le nom est modifiable)
+
+l'ANE contient toute les librarie pour chaques platformes. 
+
+rajouter la commande -platform pour rajouter des platform dans l'ane

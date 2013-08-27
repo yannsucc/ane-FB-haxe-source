@@ -1,2 +1,8 @@
-C:\Users\Jennifer\Desktop\ANE_Android_Test\ANE-Facebook-master\ANE-Facebook-master\build>adt -package -target ane FacebookTest.ane extension.xml -swc
-AirFacebook.swc -platform Android-ARM -C ../android
+adt -package -target ane FacebookTest.ane extension.xml -swc swc/AirFacebook.swc -platform Android-ARM -C android . -platform default -C default library.swf
+
+
+source : 
+
+http://help.adobe.com/en_US/air/build/WS597e5dadb9cc1e0253f7d2fc1311b491071-8000.html
+
+http://help.adobe.com/en_US/air/extensions/WSf268776665d7970d-2482335412ffea65006-8000.html
